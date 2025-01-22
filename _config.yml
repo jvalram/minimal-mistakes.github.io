@@ -90,7 +90,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : xexthex
+  username               : #xexthex
 facebook:
   username               :
   app_id                 :
@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "fartguy"
-  avatar           : /assets/images/di6c1x4-18c0a49b-0059-477f-bd43-026f9ef68b95.jpg"
+  avatar           : #/assets/images/di6c1x4-18c0a49b-0059-477f-bd43-026f9ef68b95.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
   email            :
