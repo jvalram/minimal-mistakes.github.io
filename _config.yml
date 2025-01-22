@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "fart"
+title                    : #"fart"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "fart"
@@ -113,7 +113,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "fartguy"
+  name             : #"fartguy"
   avatar           : #/assets/images/di6c1x4-18c0a49b-0059-477f-bd43-026f9ef68b95.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
