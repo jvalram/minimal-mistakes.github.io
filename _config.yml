@@ -90,7 +90,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : xexthex
 facebook:
   username               :
   app_id                 :
@@ -113,8 +113,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "fartguy"
+  avatar           : /assets/images/di6c1x4-18c0a49b-0059-477f-bd43-026f9ef68b95.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
   email            :
@@ -124,7 +124,7 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+       url: "https://youtube.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
